@@ -27,7 +27,7 @@ public class TC_VerifySignIn_TesData extends BaseClass {
 		
 		si.enterEmail(userEmail);
 		logger.info("entered XLSX email address");
-		
+		logger.info("entered XLSX email address");
 		si.enterPassword(userPwd);
 		logger.info("Entered XLSX password");
 		
